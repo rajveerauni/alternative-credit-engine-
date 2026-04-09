@@ -1,5 +1,4 @@
 # Alternative Credit Scoring Engine (Production-Ready Fintech Simulation)
-
 An end to end credit risk platform designed for underbanked populations, leveraging alternative behavioral data and explainable machine learning to enable fair, scalable lending decisions.
 
 ## What this app does
@@ -8,7 +7,6 @@ An end to end credit risk platform designed for underbanked populations, leverag
 - Trains interpretable and high-performance models (Logistic Regression, XGBoost + Optuna tuning)
 - Scores applicants and simulates approval strategies via adjustable risk thresholds
 - Outputs business-critical metrics: approval rate, default risk, profitability, and fairness (AIR)
-
 
 ## Quickstart
 1. Create and activate a Python environment (3.10+ recommended).
@@ -23,6 +21,13 @@ An end to end credit risk platform designed for underbanked populations, leverag
 - Revenue estimate (interest - expected loss - funding cost)
 - AIR fairness proxies by gender and region (80% rule check helper)
 - Risk tier summary for accepted applicants
+
+## Limitations & Real-World Considerations
+- Synthetic data ≠ real-world bias/noise
+- No bureau data integration (e.g., Experian/Equifax)
+- Model drift and macroeconomic shocks not simulated
+- Regulatory frameworks like Equal Credit Opportunity Act not fully implemented
+
 
 ## Notes
 - Demographic attributes are kept for bias auditing only.
