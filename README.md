@@ -11,7 +11,15 @@ Alternative data feature engineering
 Payment consistency (utilities, rent)
 Income volatility (gig work)
 Digital footprint stability (mobile usage)
-
+E-commerce behavioral signals
+Modeling
+Logistic Regression → interpretable baseline
+XGBoost → non-linear performance boost
+Hyperparameter tuning via Optuna
+Policy Simulation Engine
+Adjustable approval thresholds
+Risk-based segmentation (tiers)
+Scenario testing for business strategy
 
 ## Quickstart
 1. Create and activate a Python environment (3.10+ recommended).
