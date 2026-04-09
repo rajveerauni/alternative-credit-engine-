@@ -1,4 +1,4 @@
-# Alternative Credit Scoring Engine
+# Alternative Credit Scoring Engine (Production-Ready Fintech Simulation)
 
 app for underbanked credit risk using alternative data, interpretable ML, and policy simulation.
 
