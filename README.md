@@ -1,6 +1,6 @@
 # Alternative Credit Scoring Engine (Production-Ready Fintech Simulation)
 
-app for underbanked credit risk using alternative data, interpretable ML, and policy simulation.
+An end to end credit risk platform designed for underbanked populations, leveraging alternative behavioral data and explainable machine learning to enable fair, scalable lending decisions.
 
 ## What this app does
 - Generates 10,000 synthetic applicants with behavior-based default labels (~18%).
