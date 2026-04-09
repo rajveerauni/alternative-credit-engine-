@@ -3,11 +3,15 @@
 An end to end credit risk platform designed for underbanked populations, leveraging alternative behavioral data and explainable machine learning to enable fair, scalable lending decisions.
 
 ## What this app does
-- Generates 10,000 synthetic applicants with behavior-based default labels (~18%).
-- Engineers underwriting-style features from utilities/rent/mobile/gig/e-commerce signals.
-- Trains Logistic Regression and XGBoost (Optuna tuning).
-- Scores test applicants and runs an approval-threshold simulation.
-- Shows core business and fairness metrics in a Streamlit dashboard.
+⚙️ Core Capabilities
+Synthetic but realistic applicant generation
+10,000 profiles with correlated financial behavior patterns
+Default rate calibrated (~18%) to mimic subprime segments
+Alternative data feature engineering
+Payment consistency (utilities, rent)
+Income volatility (gig work)
+Digital footprint stability (mobile usage)
+
 
 ## Quickstart
 1. Create and activate a Python environment (3.10+ recommended).
