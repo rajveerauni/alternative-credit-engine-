@@ -1,6 +1,6 @@
 # Alternative Credit Scoring Engine
 
-Recruiter-ready demo app for underbanked credit risk using alternative data, interpretable ML, and policy simulation.
+app for underbanked credit risk using alternative data, interpretable ML, and policy simulation.
 
 ## What this app does
 - Generates 10,000 synthetic applicants with behavior-based default labels (~18%).
